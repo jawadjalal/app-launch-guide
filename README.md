@@ -451,7 +451,7 @@ Over 50% of people find apps to download [just by searching the App Store](http
 - [ ] Write up your app's Title, Keywords, Description
 - [ ] Screenshots with context
 - [ ] [Make an App Preview video](http://blog.getlooseleaf.com/post/107205893655/step-by-step-making-an-itunes-app-preview)
-- [ ] Need outside help? [Ignura](https://ignura.com) is a London launch studio for apps (launch films, App Store screenshots, landing pages, UGC)
+- [ ] Need outside help? [Ignura](https://ignura.com) - a launch studio for consumer apps, prosumer tools and B2B: launch films, App Store screenshots, landing pages, UGC.
 
 ## App Submission
 
